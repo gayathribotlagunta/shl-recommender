@@ -1,8 +1,9 @@
-fastapi==0.111.0
-uvicorn==0.30.1
-pydantic==2.7.1
-anthropic==0.28.0
-chromadb==0.5.0
-sentence-transformers==3.0.0
-requests==2.32.3
-beautifulsoup4==4.12.3
+fastapi
+uvicorn
+pydantic
+google-generativeai
+chromadb==0.4.24
+sentence-transformers
+requests
+beautifulsoup4
+numpy<2.0
